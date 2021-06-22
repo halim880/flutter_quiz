@@ -1,0 +1,38 @@
+[
+    {
+        "text": "Which is the Capital of Butan ?",
+        "options": [
+          {"text": "Kualalampur", "isCorrect": false},
+          {"text": "Thimbo", "isCorrect": true},
+          {"text": "Dhaka", "isCorrect": false },
+          {"text": "Panjap", "isCorrect": false}
+        ]
+    },
+    {
+        "text": "What is the full form of Wifi",
+        "options": [
+          {"text": "Wireless fidality", "isCorrect": true},
+          {"text": "Wimax fire", "isCorrect": false},
+          {"text": "None of them", "isCorrect": false},
+          {"text": "all of them", "isCorrect": false}
+        ]
+    },
+    {
+        "text": "Who is the president of USA ?",
+        "options": [
+          {"text": "Jobaiden", "isCorrect": false},
+          {"text": "Dunald Trumph", "isCorrect": false},
+          {"text": "Hilari Klinton", "isCorrect": false},
+          {"text": "Barak Obama", "isCorrect": false}
+        ]
+    },
+    {
+        "text": "which is the smallest bird?",
+        "options": [
+          {"text": "Hamming bard", "isCorrect": true},
+          {"text": "sparrow", "isCorrect": false},
+          {"text": "Kokil", "isCorrect": false},
+          {"text": "finge", "isCorrect": false}
+        ]
+    }
+]
